@@ -1,8 +1,8 @@
-(ns davec504.challenges-test
+(ns davec504.challenges.can-test
   (:require [clojure.test :refer :all]
-            [davec504.challenges :refer :all]))
+            [davec504.challenges.can :refer :all]))
 
 (deftest a-test
-  (testing "FIXME, I fail."
+  (testing "Check if user has permission to perfom actions"
     (is (= (can? user1 :write :book) true))
     (is (= (can? user2 :write :book) false))))

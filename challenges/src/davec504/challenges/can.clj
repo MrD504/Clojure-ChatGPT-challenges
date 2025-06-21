@@ -1,4 +1,4 @@
-(ns davec504.challenges)
+(ns davec504.challenges.can)
 
 ;; CHALLENGE 1 - CAN?
 (def roles

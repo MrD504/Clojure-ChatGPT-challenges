@@ -1,5 +1,6 @@
 (ns davec504.challenges)
 
+;; CHALLENGE 1 - CAN?
 (def roles
   {:admin {:rules [{:action :read :resource :book}
                    {:action :write :resource :book}]}

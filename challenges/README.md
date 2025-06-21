@@ -1,38 +1,11 @@
 # challenges
 
-FIXME: my new library.
-
+Weekly challenges set by chat gpt to help me get proficient with Clojrue
 ## Usage
 
-FIXME: write usage documentation!
+This project is not meant to be published any where, and feel free to try the challenges yourself.
 
-Invoke a library API function from the command-line:
-
-    $ clojure -X davec504.challenges/foo :a 1 :b '"two"'
-    {:a 1, :b "two"} "Hello, World!"
-
-Run the project's tests (they'll fail until you edit them):
-
-    $ clojure -T:build test
-
-Run the project's CI pipeline and build a JAR (this will fail until you edit the tests to pass):
-
-    $ clojure -T:build ci
-
-This will produce an updated `pom.xml` file with synchronized dependencies inside the `META-INF`
-directory inside `target/classes` and the JAR in `target`. You can update the version (and SCM tag)
-information in generated `pom.xml` by updating `build.clj`.
-
-Install it locally (requires the `ci` task be run first):
-
-    $ clojure -T:build install
-
-Deploy it to Clojars -- needs `CLOJARS_USERNAME` and `CLOJARS_PASSWORD` environment
-variables (requires the `ci` task be run first):
-
-    $ clojure -T:build deploy
-
-Your library will be deployed to net.clojars.davec504/challenges on clojars.org by default.
+I will post my solutions as PR's. If you have any suggestions feel free to add them.
 
 ## License
 

@@ -1,6 +1,6 @@
 # challenges
 
-Weekly challenges set by chat gpt to help me get proficient with Clojrue
+Weekly challenges set by chat gpt to help me get proficient with Clojure
 ## Usage
 
 This project is not meant to be published any where, and feel free to try the challenges yourself.
